@@ -1,0 +1,1 @@
+# stocks-dividends-analyzer
